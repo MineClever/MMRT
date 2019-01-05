@@ -1,7 +1,7 @@
 # MMRT
-Those tool materials is made for Source Engine Games only
-Source engine is not in pbr shade system.
-so make it easy just in NPR ways~
+Those tool materials is made for Source Engine Games only.\n
+Source engine is not in pbr shade system.\n
+so make it easy just in NPR ways~\n
 # current target
 [x] metal reflection
 [ ] skin refletion
